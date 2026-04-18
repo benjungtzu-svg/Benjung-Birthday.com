@@ -6,7 +6,7 @@ function nextPage(page) {
 }
 
 // Typing effect
-function typeText(elementId, text, speed = 50) {
+function typeText(elementId, text, speed = 30) {
     let i = 0;
     function typing() {
         if (i < text.length) {
