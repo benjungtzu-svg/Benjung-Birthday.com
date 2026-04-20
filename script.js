@@ -6,7 +6,7 @@ function nextPage(page) {
 }
 
 // Typing effect
-function typeText(elementId, text, speed = 30) {
+function typeText(elementId, text, speed = 50) {
     let i = 0;
     function typing() {
         if (i < text.length) {
@@ -42,3 +42,4 @@ window.addEventListener("DOMContentLoaded", () => {
 
     document.addEventListener("click", startMusic, { once: true });
 });
+
