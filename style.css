@@ -4,6 +4,10 @@ body {
     background: linear-gradient(135deg, #b778b2, #c8c8ef);
     overflow: hidden;
 }
+h2 {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 3rem;
+}
 h3 {
     font-family:'Times New Roman', Times, serif;
     font-size: 3rem;
