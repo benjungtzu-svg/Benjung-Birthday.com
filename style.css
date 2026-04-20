@@ -8,6 +8,9 @@ h1 {
     font-family:'Times New Roman', Times, serif;
     font-size: 3rem;
 }
+h2 {
+     font-family:'Times New Roman', Times, serif;
+}
 
 .center {
     display: flex;
